@@ -1,0 +1,2 @@
+CNN Training Time: 329.5235650539398 seconds
+CNN Energy Consumed: -3000.6415833811766 Joules

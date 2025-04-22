@@ -1,0 +1,3 @@
+XGBoost (GPU + ResNet18) Test Accuracy: 61.31%
+Training Time: 35.70 seconds
+Energy Consumed: 786.73 Joules

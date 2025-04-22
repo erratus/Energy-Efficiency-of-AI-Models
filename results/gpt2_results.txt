@@ -1,0 +1,2 @@
+GPT-2 Training Time: 1443.0481657981873 seconds
+GPT-2 Energy Consumed: 33751.4535498538 Joules

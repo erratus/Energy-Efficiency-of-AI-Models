@@ -1,0 +1,2 @@
+ViT Training Time: 5019.220797300339 seconds
+ViT Energy Consumed: 351,345.4531234 Joules

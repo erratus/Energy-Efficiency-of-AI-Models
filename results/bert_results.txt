@@ -1,0 +1,2 @@
+Improved BERT Training Time: 767.12 seconds
+Improved BERT Energy Consumed: 15921.49 Joules

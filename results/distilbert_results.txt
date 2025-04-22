@@ -1,0 +1,2 @@
+DistilBERT Training Time: 703.702000617981 seconds
+DistilBERT Energy Consumed: 16591.18206857014 Joules

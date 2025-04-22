@@ -1,0 +1,2 @@
+Improved GLAM Training Time: 205.48 seconds
+Improved GLAM Energy Consumed: 1938.10 Joules
