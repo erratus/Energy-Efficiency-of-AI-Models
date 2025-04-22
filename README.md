@@ -32,10 +32,28 @@ Each model was tested under controlled conditions, and metrics such as training 
 
 ## 🧪 Technologies Used
 
-- Python (PyTorch, TensorFlow, scikit-learn)
-- Energy measurement tools (`codecarbon`, `pyRAPL`)
-- Data visualization (Matplotlib, Seaborn)
-- Jupyter Notebooks for experiments and plotting
+This project leverages a variety of Python libraries across machine learning, data analysis, and energy profiling:
+
+### 🔍 Core Libraries for Model Training & Evaluation
+- **PyTorch** (`torch`, `torchvision`, `torchaudio`) – Deep learning framework for training models
+- **Transformers** (`transformers`, `tokenizers`) – Pre-trained NLP models like BERT, GPT-2, DistilBERT
+- **scikit-learn** – Classical ML models (e.g., XGBoost), evaluation metrics
+- **XGBoost** – Gradient boosting algorithm used with ResNet18
+- **Timm** – PyTorch image models including ViT
+
+### ⚡ Energy & Performance Profiling
+- **nvidia-ml-py**, **pynvml**, **nvidia-smi** – GPU power and usage tracking
+- **codecarbon** (implied by energy metrics) – Carbon footprint estimation (you can list if used)
+
+### 📊 Data Handling & Visualization
+- **Pandas**, **NumPy** – Data manipulation and numerical operations
+- **Matplotlib**, **Seaborn** – Plotting and visualization of metrics
+
+### 📚 Datasets & Utilities
+- **Datasets** (HuggingFace) – Easy access to benchmark datasets
+- **Huggingface Hub** – Model and dataset hosting
+- **TQDM** – Progress bars during training
+
 
 ## 📌 Findings
 
